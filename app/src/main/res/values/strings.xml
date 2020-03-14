@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">User Profile App</string>
+    <string name="userProfile">User Profile Kotlin [YSN]</string>
+    <string name="title_activity_create_profile">Create Profile</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="description">Description</string>
+    <string name="confirm">Confirm</string>
+    <string name="user_profile_kotlin">User Profile Kotlin</string>
+    <string name="open_picture_gallery">Open Picture Gallery</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+
+    <string name="name">%1$s %2$s</string>
+
+
+    <string name="tvName">Kevin Martin</string>
+    <string name="Mydescription">My description</string>
+
+
+</resources>
